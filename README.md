@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolghost6789/Leetdruggie/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anmolghost6789/Leetdruggie/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anmolghost6789/Leetdruggie/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolghost6789/Leetdruggie/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -94,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anmolghost6789/Leetdruggie/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anmolghost6789/Leetdruggie/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anmolghost6789/Leetdruggie/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
