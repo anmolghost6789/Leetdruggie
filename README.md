@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolghost6789/Leetdruggie/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anmolghost6789/Leetdruggie/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/anmolghost6789/Leetdruggie/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/anmolghost6789/Leetdruggie/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/anmolghost6789/Leetdruggie/tree/master/0064-minimum-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anmolghost6789/Leetdruggie/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
