@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolghost6789/Leetdruggie/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anmolghost6789/Leetdruggie/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anmolghost6789/Leetdruggie/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/anmolghost6789/Leetdruggie/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/anmolghost6789/Leetdruggie/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolghost6789/Leetdruggie/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anmolghost6789/Leetdruggie/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anmolghost6789/Leetdruggie/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anmolghost6789/Leetdruggie/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolghost6789/Leetdruggie/tree/master/0387-first-unique-character-in-a-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anmolghost6789/Leetdruggie/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/anmolghost6789/Leetdruggie/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anmolghost6789/Leetdruggie/tree/master/0242-valid-anagram) |
 ## Math
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anmolghost6789/Leetdruggie/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anmolghost6789/Leetdruggie/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anmolghost6789/Leetdruggie/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolghost6789/Leetdruggie/tree/master/0387-first-unique-character-in-a-string) |
