@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anmolghost6789/Leetdruggie/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anmolghost6789/Leetdruggie/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anmolghost6789/Leetdruggie/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anmolghost6789/Leetdruggie/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anmolghost6789/Leetdruggie/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolghost6789/Leetdruggie/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/anmolghost6789/Leetdruggie/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anmolghost6789/Leetdruggie/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anmolghost6789/Leetdruggie/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anmolghost6789/Leetdruggie/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmolghost6789/Leetdruggie/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -116,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anmolghost6789/Leetdruggie/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
