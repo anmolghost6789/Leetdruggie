@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anmolghost6789/Leetdruggie/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/anmolghost6789/Leetdruggie/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/anmolghost6789/Leetdruggie/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolghost6789/Leetdruggie/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anmolghost6789/Leetdruggie/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anmolghost6789/Leetdruggie/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anmolghost6789/Leetdruggie/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anmolghost6789/Leetdruggie/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
